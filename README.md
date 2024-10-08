@@ -32,7 +32,7 @@ This simple calculator application was created as a demonstration project. The a
 
 ## Disclaimer
 
-*** This calculator is for educational purposes only. While it performs basic arithmetic operations, it should not be used for critical calculations or in production environments. The authors and contributors are not responsible for any errors or consequences arising from the use of this calculator. ***
+***This calculator is for educational purposes only. While it performs basic arithmetic operations, it should not be used for critical calculations or in production environments. The authors and contributors are not responsible for any errors or consequences arising from the use of this calculator.***
 
 
 
