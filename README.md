@@ -26,11 +26,13 @@ This is a simple command-line calculator application written in Python. It allow
 ## About the Authors
 ![Izzy](https://scontent.fdvo2-1.fna.fbcdn.net/v/t39.30808-6/461803950_1083722689757074_6494730492808758737_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG8L-XYZBRITmvwxabmotJEtgnGXuEcmlC2CcZe4RyaUJ66fwP9TTbHSGlW8c6OOnDzhPJ1gX2iNWDedCT-vRGx&_nc_ohc=fMP6RhhwEpUQ7kNvgHEfMlZ&_nc_ht=scontent.fdvo2-1.fna&_nc_gid=A19iYfhNSYNihWNBtI68KGi&oh=00_AYAT3HA2nEGYv3Kka0w23S0qG0wO0nHoS3eVfhTX3vUy5g&oe=670A9F0B)
 
-[Ping Me](https://www.facebook.com/izzy.deniega.24)
+[AgTank](https://www.facebook.com/izzy.deniega.24)
 This simple calculator application was created as a demonstration project. The authors are passionate about making programming accessible to beginners and providing practical examples of Python scripting.
 
 
 ## Disclaimer
 
-This calculator is for educational purposes only. While it performs basic arithmetic operations, it should not be used for critical calculations or in production environments. The authors and contributors are not responsible for any errors or consequences arising from the use of this calculator.
+*** This calculator is for educational purposes only. While it performs basic arithmetic operations, it should not be used for critical calculations or in production environments. The authors and contributors are not responsible for any errors or consequences arising from the use of this calculator. ***
+
+
 
